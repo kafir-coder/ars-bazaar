@@ -30,6 +30,7 @@ Conversion notes:
 
 # Em Defesa ao *Hard Money*: Uma introdução ao Bitcoin.
 
+![alt text](/images/post1.png#dark#small "Mundo simbiotico by Moebius")
 O impacto da racionalidade nos permitiu, pela primeira vez, transformar o ecossistema ao nosso redor. De meras variáveis passivas, passamos a protagonistas do próprio destino. Desde o Neolítico até a era industrial, há um elemento constante: a busca por melhor qualidade de vida — um conceito que varia conforme o contexto cultural, mas que tem como núcleo o desenvolvimento de tecnologias para aumento de produtividade e expansão do comércio. Com mais produtividade, vêm a abundância, a longevidade e um ambiente propício ao crescimento populacional.
 
 O mercado é inevitável. Nascemos com habilidades distintas e, ao longo da vida, nos especializamos. Isso gera assimetrias naturais, tornando impossível que cada indivíduo produza tudo o que consome. A troca, portanto, torna-se necessária[^1] — e é daí que surge o mercado. A expansão dos mercados está diretamente ligada à facilidade de troca entre os diversos bens, ou seja, à qualidade do dinheiro.
@@ -84,7 +85,7 @@ Apesar do avanço contínuo da **produtividade desde a Revolução Industrial**,
 
 uma vez definidos as características ideais do dinheiro e o riscos nocivos a economia causados pelo  sistema fiduciario, temos uma base solida para introduzirmos, aquilo que é tido como a forma perfeita de dinheiro, o derradeiro Hard Money, ***O Bitcoin***.
 
-Em 31 de outubro de 2008, na celebre mailing list Cryptograpy[^11] um usuario com pseudonimo** Satoshi Nakamoto** publicou um paper de 9 páginas descrevendedo uma forma de dinheiro decentralizada imune a duplo gasto[^12]. Ao contrário das moedas tradicionais, o bitcoin é completamente virtual. Não existem moedas físicas nem unidades digitais individuais visíveis. O que existem são registros de transações que transferem valor de uma pessoa para outra. O controle do bitcoin está nas mãos dos usuários, que possuem chaves criptográficas (chave privada e pública) para provar a posse de seus fundos e autorizar transações. Essas chaves geralmente ficam armazenadas em carteiras digitais num telemovel ou computador. Na necessidade de enviar fundos pela rede, um usuário na rede cria uma transação através do endereço do destinatário e uma vez assinado digitalmente pela sua chave privada os mesmo fundos só podem ser gastos pelo destinatario se o mesmo assinar a próxima transação agora com a sua chave privada. 
+Em 31 de outubro de 2008, na celebre mailing list Cryptograpy[^11] um usuario com pseudonimo **Satoshi Nakamoto** publicou um paper de 9 páginas descrevendedo uma forma de dinheiro decentralizada imune a duplo gasto[^12]. Ao contrário das moedas tradicionais, o bitcoin é completamente virtual. Não existem moedas físicas nem unidades digitais individuais visíveis. O que existem são registros de transações que transferem valor de uma pessoa para outra. O controle do bitcoin está nas mãos dos usuários, que possuem chaves criptográficas (chave privada e pública) para provar a posse de seus fundos e autorizar transações. Essas chaves geralmente ficam armazenadas em carteiras digitais num telemovel ou computador. Na necessidade de enviar fundos pela rede, um usuário na rede cria uma transação através do endereço do destinatário e uma vez assinado digitalmente pela sua chave privada os mesmo fundos só podem ser gastos pelo destinatario se o mesmo assinar a próxima transação agora com a sua chave privada. 
 
 Quem possui a chave tem controle total sobre os fundos. É isso que permite gastar o bitcoin — não há necessidade de autorização de terceiros.
 
@@ -169,7 +170,7 @@ Assim, mais do que uma alternativa monetária, o Bitcoin representa uma proposta
      https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf
 
 [^11]:
-     **Bitcoin Announcement: **[https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2008-October/000000.html](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2008-October/000000.html)
+     **Bitcoin Announcement:** [https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2008-October/000000.html](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2008-October/000000.html)
 
 [^12]:
      bitcoins  são imune ao duplo gasto porque registra todas as transações numa blockchain pública e descentralizada, onde a rede valida e confirma cada transação via consenso e prova de trabalho, impedindo que a mesma unidade seja gasta duas vezes.

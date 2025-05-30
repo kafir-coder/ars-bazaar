@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/posts/em-defesa-ao-hard-money-uma-introducao-ao-bitcoin/</guid>
       <description>Expondo os riscos do sistema fiat e como Bitcoin resolve isso de modo a termos um futuro mais sustentável</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-dark%23small&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;alt text&#34; src=&#34;http://localhost:1313/images/landscape.jpg#dark%23small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Caption text &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I spend most of my time writing code, reading about linguistics and botany, and quietly wondering how things work — or why they don’t.&lt;/p&gt;&#xA;&lt;p&gt;Not big on noise. Prefer clear systems, quiet places, and ideas that actually hold up under pressure.&lt;/p&gt;&#xA;&lt;p&gt;This site is where I park some thoughts and projects. Nothing too formal.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
